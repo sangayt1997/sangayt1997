@@ -9,8 +9,11 @@ Currently working in SELISE Bhutan as web and mobile developer.
 3. SevelteJs
 4. React Native
 5. Flutter(on process)
-6. Figma(as UI/UX designer)
-7. Agile Project Management
+6. Java
+7. C
+8. C++
+9. Figma(as UI/UX designer)
+10. Agile Project Management
 
 <!--
 **sangayt1997/sangayt1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
