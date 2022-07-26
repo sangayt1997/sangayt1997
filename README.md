@@ -1,18 +1,18 @@
 ### Hi there 👋
 
-#### I am Sangay Thinley Developer from the Bhutan.
+#### I am Sangay Thinley Developer from kingdom of Bhutan.
 Currently working in SELISE Bhutan as web and mobile developer.
 
 #### Experience:
 1. Angular
-2. ReactjJs 
+2. React 
 3. SevelteJs
 4. React Native
-5. Flutter(on process)
+5. Flutter(on learning process)
 6. Java
 7. C
 8. C++
-9. Firebase
+9. Firebase(on learning process)
 10. Figma(as UI/UX designer)
 11. Agile Project Management
 
