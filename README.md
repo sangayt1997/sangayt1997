@@ -8,7 +8,7 @@ Currently working in SELISE Bhutan as web and mobile developer.
 2. React 
 3. SevelteJs
 4. React Native
-5. Flutter(on learning process)
+5. Flutter and Dart(on learning process)
 6. Java
 7. C
 8. C++
