@@ -1,36 +1,9 @@
 ### Hi there 👋
 
 #### I am Sangay Thinley Developer from kingdom of Bhutan.
-Currently working in SELISE Bhutan as web and mobile developer.
+Currently working in <b>SELISE Bhutan </b> as web and mobile developer.
 
-#### Experience:
-1. Angular
-2. React 
-3. SevelteJs
-4. React Native
-5. Flutter and Dart(on learning process)
-6. Java
-7. C
-8. C++
-9. Firebase(on learning process)
-10. Figma(as UI/UX designer)
-11. Agile Project Management
-
-<!--
-**sangayt1997/sangayt1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+## Experiences:
 ### List of Languages, frameworks and skills:
 
 [![My Skills](https://skillicons.dev/icons?i=html)](https://www.w3schools.com/html/)
@@ -75,8 +48,12 @@ Here are some ideas to get you started:
 [<img src="./assets/logo_image/clickup.png" width="38"/>](https://clickup.com/)
 
 
+### Get in touch with me:
 
-
+[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/sangayt1997)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sangay-thinley-47a92b23b)
+[![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/18950809/sangay-thinley)
+[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/SangayT97/)
 
 
 
