@@ -57,10 +57,14 @@ Currently working in <b>SELISE Bhutan </b> as web and mobile developer.
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/SangayT97/)
 
 
+### GitHub Status:
+#### Most language used:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangayt1997&langs_count=20&theme=dark&show_icons=true&layout=compact)
+#### Stats:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sangayt1997&theme=dark&show_icons=true)
+#### Streak:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sangayt1997&theme=dark&show_icons=true)
 
+### Buy me Coffee
 
-
-
-
-
-
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="sangaythin1" data-color="#40DCA5" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
