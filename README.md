@@ -65,5 +65,6 @@ Currently working in <b>SELISE Bhutan </b> as web and mobile developer.
 #### Streak:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sangayt1997&theme=dark&show_icons=true)
 
+### Buy me Coffee
 
-
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="sangaythin1" data-color="#40DCA5" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
