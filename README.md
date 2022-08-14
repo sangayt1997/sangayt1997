@@ -57,11 +57,13 @@ Currently working in <b>SELISE Bhutan </b> as web and mobile developer.
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/SangayT97/)
 
 
-### Github Stats:
+### GitHub Status:
+#### Most language used:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangayt1997&langs_count=20&theme=dark&show_icons=true&layout=compact)
+#### Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sangayt1997&theme=dark&show_icons=true)
-
-
-
+#### Streak:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sangayt1997&theme=dark&show_icons=true)
 
 
 
