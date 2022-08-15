@@ -29,7 +29,7 @@ Currently working in <b>SELISE Bhutan </b> as web and mobile developer.
 [![My Skills](https://skillicons.dev/icons?i=cpp)](https://www.w3schools.com/cpp/)
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
 [![My Skills](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
-[![My Skills](https://skillicons.dev/icons?i=react)](https://reactnative.dev/)
+[<img src="./assets/logo_image/react-native.png" width="60" height="40"/>](https://reactnative.dev/)
 [![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com/docs)
 [![My Skills](https://skillicons.dev/icons?i=styledcomponents)](https://styled-components.com/)
 [![My Skills](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
