@@ -42,10 +42,10 @@ Currently working in <b>SELISE Bhutan </b> as web and mobile developer.
 ![My Skills](https://skillicons.dev/icons?i=github)
 ![My Skills](https://skillicons.dev/icons?i=vercel)
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
-<img src="./assets/logo_image/webstorm.png" width="38"/>
-<img src="./assets/logo_image/xcode.jpeg" width="60"/>
-[<img src="./assets/logo_image/trello.png" width="38"/>](https://trello.com/)
-[<img src="./assets/logo_image/slack.png" width="60"/>](https://slack.com/)
+<img src="./assets/logo_image/webstorm.png" width="40" height="40"/>
+<img src="./assets/logo_image/xcode.png" width="70" height="50"/>
+[<img src="./assets/logo_image/trello.png" width="48" height="48"/>](https://trello.com/)
+[<img src="./assets/logo_image/slack.png" width="60" height="48"/>](https://slack.com/)
 [<img src="./assets/logo_image/clickup.png" width="38"/>](https://clickup.com/)
 
 
@@ -55,7 +55,7 @@ Currently working in <b>SELISE Bhutan </b> as web and mobile developer.
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sangay-thinley-47a92b23b)
 [![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/18950809/sangay-thinley)
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/SangayT97/)
-
+[<img src="./assets/logo_image/upwork.png" width="50"/>](https://www.upwork.com/freelancers/~01e9f87220fbc89318)
 
 ### GitHub Status:
 #### Most language used:
