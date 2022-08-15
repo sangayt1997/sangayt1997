@@ -42,6 +42,7 @@ Currently working in <b>SELISE Bhutan </b> as web and mobile developer.
 ![My Skills](https://skillicons.dev/icons?i=eclipse)
 ![My Skills](https://skillicons.dev/icons?i=github)
 ![My Skills](https://skillicons.dev/icons?i=vercel)
+![My Skills](https://skillicons.dev/icons?i=vscode)
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
 <img src="./assets/logo_image/webstorm.png" width="40" height="40"/>
 <img src="./assets/logo_image/xcode.png" width="80"/>
