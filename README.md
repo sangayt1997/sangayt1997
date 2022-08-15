@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I am Sangay Thinley Developer from kingdom of Bhutan.
+#### I am Sangay Thinley, Developer from kingdom of Bhutan.
 
 Currently working in <b>SELISE Bhutan </b> as web and mobile developer.
 
@@ -74,4 +74,4 @@ Currently working in <b>SELISE Bhutan </b> as web and mobile developer.
 
 ### Buy me Coffee
 
-<a href="https://www.buymeacoffee.com/sangaythin1" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>**
+<a href="https://www.buymeacoffee.com/sangaythin1" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
