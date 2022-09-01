@@ -4,6 +4,10 @@
 
 Currently working in <b>SELISE Bhutan </b> as web and mobile developer.
 
+## Profile View:
+<img src="https://komarev.com/ghpvc/?username=sangayt1997&style=flat-square&color=blue" alt=""/>
+
+
 ## Experiences:
 
 ### List of Languages, frameworks and skills:
