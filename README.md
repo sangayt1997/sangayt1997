@@ -72,6 +72,7 @@ Currently working in <b>SELISE Bhutan </b> as web and mobile developer.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sangayt1997&theme=dark&show_icons=true)
 
+#### Activity Graph
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sangayt1997&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 #### Streak:
