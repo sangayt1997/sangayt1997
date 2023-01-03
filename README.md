@@ -77,7 +77,7 @@ Currently working in <b>SELISE Bhutan </b> as web and mobile developer.
 
 #### Streak:
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sangayt1997&theme=dark&show_icons=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sangayt1997&theme=highcontrast)](https://git.io/streak-stats)
 
 ### Buy me Coffee
 
