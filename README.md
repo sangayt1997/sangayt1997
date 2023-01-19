@@ -66,11 +66,11 @@ Currently working in <b>SELISE Bhutan </b> as web and mobile developer.
 
 #### Most language used:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangayt1997&langs_count=20&theme=dark&show_icons=true&layout=compact)
+![Top Langs](https://github-readme-stats-sangaythinley.vercel.app/api/top-langs/?username=sangayt1997&langs_count=20&theme=dark&show_icons=true&layout=compact)
 
 #### Stats:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sangayt1997&theme=dark&show_icons=true)
+![GitHub stats](https://github-readme-stats-sangaythinley.vercel.app/api?username=sangayt1997&theme=dark&show_icons=true)
 
 #### Activity Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sangayt1997&theme=github-compact&area=true&area_color=5CED73)](https://github.com/ashutosh00710/github-readme-activity-graph)
