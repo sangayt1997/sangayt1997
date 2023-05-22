@@ -54,6 +54,9 @@ Currently working in <b>SELISE Bhutan </b> as web and mobile developer.
 [<img src="./assets/logo_image/slack.png" width="60" height="42"/>](https://slack.com/)
 [<img src="./assets/logo_image/clickup.png" width="38"/>](https://clickup.com/)
 
+### Projects:
+##### Coming soon
+
 ### Get in touch with me:
 
 [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/sangayt1997)
