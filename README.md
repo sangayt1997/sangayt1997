@@ -55,7 +55,14 @@ Currently working in <b>SELISE Bhutan </b> as web and mobile developer.
 [<img src="./assets/logo_image/clickup.png" width="38"/>](https://clickup.com/)
 
 ### Projects:
-##### Coming soon
+##### 1. Stellar Minds
+## Image here
+
+##### 2. Spotify Clone
+## Image here
+
+##### 3. ePortfolio
+## Image here
 
 ### Get in touch with me:
 
