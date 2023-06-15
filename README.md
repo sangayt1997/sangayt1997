@@ -56,12 +56,16 @@ Currently working in <b>SELISE Bhutan </b> as web and mobile developer.
 
 ### Projects:
 ##### 1. Stellar Minds
+- Stellar Mind makes Journaling fun and addicting. Write Journal everyday and earn Nourish Point.
+
 ## Image here
 
 ##### 2. Spotify Clone
+- Description
 ## Image here
 
 ##### 3. ePortfolio
+- Description
 ## Image here
 
 ### Get in touch with me:
