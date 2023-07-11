@@ -61,11 +61,13 @@ Currently working in <b>SELISE Bhutan </b> as web and mobile developer.
 ## Image here
 
 ##### 2. Spotify Clone
-- Description
+- Creating spotify music platform with react.
+  
 ## Image here
 
 ##### 3. ePortfolio
-- Description
+- Simple personal ePortfolio.
+  
 ## Image here
 
 ### Get in touch with me:
