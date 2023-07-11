@@ -54,23 +54,6 @@ Currently working in <b>SELISE Bhutan </b> as web and mobile developer.
 [<img src="./assets/logo/slack.png" width="60" height="42"/>](https://slack.com/)
 [<img src="./assets/logo/clickup.png" width="38"/>](https://clickup.com/)
 
-### Projects:
-##### 1. Stellar Minds
-- Stellar Mind makes Journaling fun and addicting. Write Journal everyday and earn Nourish Point.
-
-[<img src="./assets/images/stellar_minds.png"/>](https://play.google.com/store/apps/details?id=com.stellarmindsapp.bt)
-
-##### 2. Spotify Clone
-- Creating spotify music platform with react.
-
-[<img src="./assets/images/spotify_clone.png"/>](https://spotify-music-clone-ten.vercel.app/)
-
-
-##### 3. ePortfolio
-- Simple personal ePortfolio.
-
-[<img src="./assets/images/eportfolio.png"/>](https://sample-eportfolio.vercel.app/)
-
 ### Get in touch with me:
 
 [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/sangayt1997)
@@ -100,3 +83,20 @@ Currently working in <b>SELISE Bhutan </b> as web and mobile developer.
 ### Buy me Coffee
 
 <a href="https://www.buymeacoffee.com/sangaythin1" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+### Projects:
+##### 1. Stellar Minds
+- Stellar Mind makes Journaling fun and addicting. Write Journal everyday and earn Nourish Point.
+
+[<img src="./assets/images/stellar_minds.png"/>](https://play.google.com/store/apps/details?id=com.stellarmindsapp.bt)
+
+##### 2. Spotify Clone
+- Creating spotify music platform with react.
+
+[<img src="./assets/images/spotify_clone.png"/>](https://spotify-music-clone-ten.vercel.app/)
+
+
+##### 3. ePortfolio
+- Simple personal ePortfolio.
+
+[<img src="./assets/images/eportfolio.png"/>](https://sample-eportfolio.vercel.app/)
