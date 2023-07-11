@@ -33,11 +33,11 @@ Currently working in <b>SELISE Bhutan </b> as web and mobile developer.
 [![My Skills](https://skillicons.dev/icons?i=cpp)](https://www.w3schools.com/cpp/)
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
 [![My Skills](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
-[<img src="./assets/logo_image/react-native.png" width="60" height="40"/>](https://reactnative.dev/)
+[<img src="./assets/logo/react-native.png" width="60" height="40"/>](https://reactnative.dev/)
 [![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com/docs)
 [![My Skills](https://skillicons.dev/icons?i=styledcomponents)](https://styled-components.com/)
 [![My Skills](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
-[<img src="./assets/logo_image/styled-system.png" width="38"/>](https://styled-system.com/)
+[<img src="./assets/logo/styled-system.png" width="38"/>](https://styled-system.com/)
 
 ### List of Platform and IDE used:
 
@@ -48,27 +48,28 @@ Currently working in <b>SELISE Bhutan </b> as web and mobile developer.
 ![My Skills](https://skillicons.dev/icons?i=vercel)
 ![My Skills](https://skillicons.dev/icons?i=vscode)
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
-<img src="./assets/logo_image/webstorm.png" width="40" height="40"/>
-<img src="./assets/logo_image/xcode.png" width="80"/>
-[<img src="./assets/logo_image/trello.png" width="48" height="48"/>](https://trello.com/)
-[<img src="./assets/logo_image/slack.png" width="60" height="42"/>](https://slack.com/)
-[<img src="./assets/logo_image/clickup.png" width="38"/>](https://clickup.com/)
+<img src="./assets/logo/webstorm.png" width="40" height="40"/>
+<img src="./assets/logo/xcode.png" width="80"/>
+[<img src="./assets/logo/trello.png" width="48" height="48"/>](https://trello.com/)
+[<img src="./assets/logo/slack.png" width="60" height="42"/>](https://slack.com/)
+[<img src="./assets/logo/clickup.png" width="38"/>](https://clickup.com/)
 
 ### Projects:
 ##### 1. Stellar Minds
 - Stellar Mind makes Journaling fun and addicting. Write Journal everyday and earn Nourish Point.
 
-## Image here
+[<img src="./assets/images/stellar_minds.png"/>](https://play.google.com/store/apps/details?id=com.stellarmindsapp.bt)
 
 ##### 2. Spotify Clone
 - Creating spotify music platform with react.
-  
-## Image here
+
+[<img src="./assets/images/spotify_clone.png"/>](https://spotify-music-clone-ten.vercel.app/)
+
 
 ##### 3. ePortfolio
 - Simple personal ePortfolio.
-  
-## Image here
+
+[<img src="./assets/images/eportfolio.png"/>](https://sample-eportfolio.vercel.app/)
 
 ### Get in touch with me:
 
