@@ -60,7 +60,7 @@ Currently working in <b>SELISE Bhutan </b> as web and mobile developer.
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sangay-thinley-47a92b23b)
 [![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/18950809/sangay-thinley)
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/SangayT97/)
-[<img src="./assets/logo_image/upwork.png" width="50"/>](https://www.upwork.com/freelancers/~01e9f87220fbc89318)
+[<img src="./assets/logo/upwork.png" width="50"/>](https://www.upwork.com/freelancers/~01e9f87220fbc89318)
 
 ### GitHub Status:
 
