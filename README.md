@@ -10,7 +10,7 @@ Currently working in <b>SELISE Bhutan </b> as web and mobile developer.
 
 ## Experiences and Skills:
 
-### List of Languages, frameworks and skills:
+### List of Programming Languages and frameworks used:
 
 [![My Skills](https://skillicons.dev/icons?i=html)](https://www.w3schools.com/html/)
 [![My Skills](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css/)
