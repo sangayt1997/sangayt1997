@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I am Sangay Thinley, Developer from kingdom of Bhutan ❤️.
+#### I am Sangay Thinley, Software Developer from kingdom of Bhutan ❤️.
 
 Currently working in <b>SELISE Bhutan </b> as web and mobile developer.
 
