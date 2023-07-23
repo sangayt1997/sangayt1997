@@ -31,7 +31,6 @@ Currently working in <b>SELISE Bhutan </b> as web and mobile developer.
 [![My Skills](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![My Skills](https://skillicons.dev/icons?i=cpp)](https://www.w3schools.com/cpp/)
-[![My Skills](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
 [![My Skills](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
 [<img src="./assets/logo/react-native.png" width="60" height="40"/>](https://reactnative.dev/)
 [![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com/docs)
