@@ -3,13 +3,13 @@
 ------------------------------------------------------------------------------
 
 ### Hi there 👋
-- I am Sangay Thinley, Software Developer from Kingdom of Bhutan ❤️.
+- I am Sangay Thinley, Software Developer from Kingdom of Bhutan.
 - Currently working in <b>SELISE Bhutan </b> as web and mobile developer.
 
 ------------------------------------------------------------------------------
 
-## Profile View:
-<img src="https://komarev.com/ghpvc/?username=sangayt1997&style=flat-square&color=blue" alt=""/>
+### Profile View:
+<img src="https://komarev.com/ghpvc/?username=sangayt1997&style=flat-square&color=blue" alt="profile views"/>
 
 ------------------------------------------------------------------------------
 
@@ -78,19 +78,19 @@
 
 ------------------------------------------------------------------------------
 
-#### Stats:
+### Stats:
 
 ![GitHub stats](https://github-readme-stats-ahc6xxwqw-sangaythinley.vercel.app/api?username=sangayt1997&theme=dark&show_icons=true)
 
 ------------------------------------------------------------------------------
 
-#### Activity Graph
+### Activity Graph
 
 ![Github Activity Graph](https://github-readme-activity-graph-jm7gayy67-sangaythinley.vercel.app/graph?username=sangayt1997&theme=github-compact&area=true&area_color=5CED73)
 
 ------------------------------------------------------------------------------
 
-#### Streak:
+### Streak:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sangayt1997&theme=highcontrast)](https://git.io/streak-stats)
 
@@ -102,22 +102,22 @@
 
 ------------------------------------------------------------------------------
 
-### Projects:
-##### 1. Stellar Minds
+## Projects:
+#### 1. Stellar Minds
 - Stellar Mind makes Journaling fun and addicting. Write Journal everyday and earn Nourish Point.
 
 [<img src="./assets/images/stellar_minds.png"/>](https://play.google.com/store/apps/details?id=com.stellarmindsapp.bt)
 
 ------------------------------------------------------------------------------
 
-##### 2. Spotify Clone
+#### 2. Spotify Clone
 - Creating spotify music platform with react.
 
 [<img src="./assets/images/spotify_clone.png"/>](https://spotify-music-clone-ten.vercel.app/)
 
 ------------------------------------------------------------------------------
 
-##### 3. ePortfolio
+#### 3. ePortfolio
 - Simple personal ePortfolio.
 
 [<img src="./assets/images/eportfolio.png"/>](https://sample-eportfolio.vercel.app/)
