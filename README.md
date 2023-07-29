@@ -8,6 +8,17 @@
 
 ------------------------------------------------------------------------------
 
+### Working Experiences
+#### 1. Dragon Coder Private Limited(Intern Developer)
+- Description and tech stack
+
+------------------------------------------------------------------------------
+
+#### 2. SELISE Bhutan(Software Engineer)
+- Description and tech stack
+
+------------------------------------------------------------------------------
+
 ### Profile View:
 <img src="https://komarev.com/ghpvc/?username=sangayt1997&style=flat-square&color=blue" alt="profile views"/>
 
