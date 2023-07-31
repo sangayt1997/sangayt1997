@@ -10,7 +10,7 @@
 ------------------------------------------------------------------------------
 
 ### Working Experiences
-#### 1. Dragon Coder Private Limited(Jan,2020 - Feb,2020)
+#### 1. Dragon Coder Private Limited(Jan 2020 - Feb 2020)
 - Role: Intern Developer
 
 ------------------------------------------------------------------------------
