@@ -10,13 +10,13 @@
 ------------------------------------------------------------------------------
 
 ### Working Experiences
-#### 1. Dragon Coder Private Limited(Intern Developer)
-- Description and tech stack
+#### 1. Dragon Coder Private Limited(Jan,2020 - Feb,2020)
+- Role: Intern Developer
 
 ------------------------------------------------------------------------------
 
-#### 2. SELISE Bhutan(Software Engineer)
-- Description and tech stack
+#### 2. SELISE Bhutan(May 2020 - Present)
+- Role: Software Engineer
 
 ------------------------------------------------------------------------------
 
