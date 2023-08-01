@@ -2,10 +2,13 @@
 
 ------------------------------------------------------------------------------
 
-### Hi there 👋
-- I am Sangay Thinley, Software Developer from Kingdom of Bhutan.
-- Currently working in <b>SELISE Bhutan</b> as web and mobile developer.
-- Currently working in <b>STELLARLAB</b>
+### Hellow there 👋,
+
+:information_source: I am Sangay Thinley, Software Developer from Kingdom of Bhutan.
+
+:office: Currently working in <b>SELISE Bhutan</b> as web and mobile developer.
+
+:office: Currently working in <b>STELLARLAB</b>
 
 ------------------------------------------------------------------------------
 
