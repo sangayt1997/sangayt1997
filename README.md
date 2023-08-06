@@ -89,13 +89,13 @@
 
 ### GitHub Status:
 
-![Top Langs](https://github-readme-stats-ahc6xxwqw-sangaythinley.vercel.app/api/top-langs/?username=sangayt1997&langs_count=20&theme=dark&show_icons=true&layout=compact)
+![Top Langs](https://github-readme-stats-kqggkwfy3-sangaythinley.vercel.app/api/top-langs/?username=sangayt1997&langs_count=20&theme=dark&show_icons=true&layout=compact)
 
 ------------------------------------------------------------------------------
 
 ### Stats:
 
-![GitHub stats](https://github-readme-stats-ahc6xxwqw-sangaythinley.vercel.app/api?username=sangayt1997&theme=dark&show_icons=true)
+![GitHub stats](https://github-readme-stats-kqggkwfy3-sangaythinley.vercel.app/api?username=sangayt1997&theme=dark&show_icons=true)
 
 ------------------------------------------------------------------------------
 
