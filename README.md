@@ -101,7 +101,7 @@
 
 ### Activity Graph
 
-![Github Activity Graph](https://github-readme-activity-graph-jm7gayy67-sangaythinley.vercel.app/graph?username=sangayt1997&theme=github-compact&area=true&area_color=5CED73)
+![Github Activity Graph](https://github-readme-activity-graph-ep1nlmwou-sangaythinley.vercel.app/graph?username=sangayt1997&theme=github-compact&area=true&area_color=5CED73)
 
 ------------------------------------------------------------------------------
 
