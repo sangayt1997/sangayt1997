@@ -107,7 +107,7 @@
 
 ### Streak:
 
-[![GitHub Streak](https://github-readme-stats-kqggkwfy3-sangaythinley.vercel.app/?user=sangayt1997&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](github-readme-stats-nu-gold-11.vercel.app/?user=sangayt1997&theme=highcontrast)](https://git.io/streak-stats)
 
 ------------------------------------------------------------------------------
 
