@@ -2,7 +2,7 @@
 
 ------------------------------------------------------------------------------
 
-### Hellow there 👋,
+### Hello there 👋,
 
 :information_source: I am Sangay Thinley, Software Developer from Kingdom of Bhutan.
 
