@@ -100,16 +100,15 @@
 ![GitHub stats](https://github-readme-stats-kqggkwfy3-sangaythinley.vercel.app/api?username=sangayt1997&theme=dark&show_icons=true)
 
 ------------------------------------------------------------------------------
+### Streak:
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sangayt1997&theme=highcontrast)](https://git.io/streak-stats)
+
+------------------------------------------------------------------------------
 
 ### Activity Graph
 
 ![Github Activity Graph](https://github-readme-activity-graph-ep1nlmwou-sangaythinley.vercel.app/graph?username=sangayt1997&theme=github-compact&area=true&area_color=5CED73)
-
-------------------------------------------------------------------------------
-
-### Streak:
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sangayt1997&theme=highcontrast)](https://git.io/streak-stats)
 
 ------------------------------------------------------------------------------
 
