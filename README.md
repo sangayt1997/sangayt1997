@@ -121,19 +121,16 @@
 ## Projects:
 #### 1. Stellar Minds
 - Stellar Mind makes Journaling fun and addicting. Write Journal everyday and earn Nourish Point.
-
-<span style="color: blue;">[DEMO]([https://play.google.com/store/apps/details?id=com.stellarmindsapp.bt])</span>
+- <span style="color: blue;">[DEMO](https://play.google.com/store/apps/details?id=com.stellarmindsapp.bt)</span>
 
 ------------------------------------------------------------------------------
 
 #### 2. Spotify Clone
 - Creating spotify music platform with react.
-
-<span style="color: blue;">[DEMO]([https://spotify-music-clone-ten.vercel.app/])</span>
+- <span style="color: blue;">[DEMO](https://spotify-music-clone-ten.vercel.app/)</span>
 
 ------------------------------------------------------------------------------
 
 #### 3. ePortfolio
 - Simple personal ePortfolio.
-
-<span style="color: blue;">[DEMO]([https://sample-eportfolio.vercel.app/])</span>
+- <span style="color: blue;">[DEMO](https://sample-eportfolio.vercel.app/)</span>
