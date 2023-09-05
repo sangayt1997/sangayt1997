@@ -122,6 +122,8 @@
 #### 1. Stellar Minds
 - Stellar Mind makes Journaling fun and addicting. Write Journal everyday and earn Nourish Point.
 
+  <span style="color: blue;">[Google](https://www.google.com)</span>
+
 [<img src="./assets/images/stellar_minds.png"/>](https://play.google.com/store/apps/details?id=com.stellarmindsapp.bt)
 
 ------------------------------------------------------------------------------
