@@ -87,7 +87,7 @@
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/SangayT97/)
 [<img src="./assets/logo/upwork.png" width="50"/>](https://www.upwork.com/freelancers/~01e9f87220fbc89318)
 <a href="mailto:sangaythinley1694@gmail.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepository/main/path/to/gmail-icon.svg" alt="Gmail Icon" width="30" height="30">
+  <img src="./assets/logo/gmail_logo.jpeg" width="50"">
 </a>
 
 ------------------------------------------------------------------------------
