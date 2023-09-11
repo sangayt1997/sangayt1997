@@ -138,7 +138,7 @@
 - Simple personal ePortfolio.
 - <span style="color: blue;">[DEMO](https://sample-eportfolio.vercel.app/)</span>
 
-#### 4. Nyo Tshong
+#### 4. Nyo Tshong(CURRENTLY WORKING)
 - This project aims to provide practice in utilizing API bindings from open source APIs(i.e. fakestoreapi) using NextJs(App Router).
 - <span style="color: blue;">[DEMO](https://nyo-tshong-fe.vercel.app/)</span>
 
