@@ -6,6 +6,8 @@
 
 :information_source: I am Sangay Thinley, Software Developer from Kingdom of Bhutan.
 
+:office: Internship at <b>Dragon coder private limited</b> as frontend developer.
+
 :office: Currently working in <b>SELISE Bhutan</b> as web and mobile developer.
 
 :office: Currently working in <b>STELLARLAB Startup</b>
@@ -21,7 +23,7 @@
 
 #### 2. SELISE Bhutan (May 2020 - Present)
 - **Role**: Software Engineer
-- **Tech Stack used**: Angular, Typscript, React, Javascript, SvelteJs, React-Native, Flutter and NextJs 
+- **Tech Stack used**: Angular, Typescript, React, Javascript, SvelteJs, React-Native, Flutter and NextJs 
 
 ------------------------------------------------------------------------------
 
