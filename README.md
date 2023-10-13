@@ -1,36 +1,36 @@
 <img src="./assets/images/coding_banner.png" alt="banner" width="100%" height="100%"/>
 
-------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Hello there 👋,
 
-:information_source: I am Sangay Thinley, Software Developer from Kingdom of Bhutan. 
+:information_source: I am Sangay Thinley, Software Developer from Kingdom of Bhutan.
 
-:office: Internship at <b>Dragon coder private limited</b> as frontend developer. 
+:office: Internship at <b>Dragon coder private limited</b> as frontend developer.
 
-:office: Currently working in <b>SELISE Bhutan</b> as web and mobile developer. 
+:office: Currently working in <b>SELISE Bhutan</b> as web and mobile developer.
 
 :office: Currently working in <b>STELLARLAB Startup</b>
 
-------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Working Experiences
 #### 1. Dragon Coder Private Limited (Jan 2020 - Feb 2020)
 - **Role**: Intern Developer
 - **Tech Stack used**: Angular, Typescript, Javascript and WordPress
 
-------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### 2. SELISE Bhutan (May 2020 - Present)
 - **Role**: Software Engineer
 - **Tech Stack used**: Angular, Typescript, React, Javascript, SvelteJs, React-Native, Flutter and NextJs 
 
-------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Profile View:
 <img src="https://komarev.com/ghpvc/?username=sangayt1997&style=flat-square&color=blue" alt="profile views"/>
 
-------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Experiences and Skills:
 
@@ -62,7 +62,7 @@
 [![My Skills](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
 [<img src="./assets/logo/styled-system.png" width="38"/>](https://styled-system.com/)
 
-------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### List of Platform and IDE used:
 
@@ -79,7 +79,7 @@
 [<img src="./assets/logo/slack.png" width="60" height="42"/>](https://slack.com/)
 [<img src="./assets/logo/clickup.png" width="38"/>](https://clickup.com/)
 
-------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Get in touch with me:
 
@@ -92,55 +92,59 @@
   <img src="./assets/logo/gmail.jpeg" width="50" />
 </a>
 
-------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### GitHub Status:
 
 ![Top Langs](https://github-readme-stats-kqggkwfy3-sangaythinley.vercel.app/api/top-langs/?username=sangayt1997&langs_count=20&theme=dark&show_icons=true&layout=compact)
 
-------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Stats:
 
 ![GitHub stats](https://github-readme-stats-kqggkwfy3-sangaythinley.vercel.app/api?username=sangayt1997&theme=dark&show_icons=true)
 
-------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### Streak:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sangayt1997&theme=highcontrast)](https://git.io/streak-stats)
 
-------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Activity Graph
 
 ![Github Activity Graph](https://github-readme-activity-graph-ep1nlmwou-sangaythinley.vercel.app/graph?username=sangayt1997&theme=github-compact&area=true&area_color=5CED73)
 
-------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Buy me Coffee
 
 <a href="https://www.buymeacoffee.com/sangaythin1" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Projects:
 #### 1. Stellar Minds
 - Stellar Mind makes Journaling fun and addicting. Write Journal everyday and earn Nourish Point.
 - <span style="color: blue;">[DEMO](https://play.google.com/store/apps/details?id=com.stellarmindsapp.bt)</span>
 
-------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### 2. Spotify Clone
 - Creating spotify music platform with react.
 - <span style="color: blue;">[DEMO](https://spotify-music-clone-ten.vercel.app/)</span>
 
-------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### 3. ePortfolio
 - Simple personal ePortfolio.
 - <span style="color: blue;">[DEMO](https://sample-eportfolio.vercel.app/)</span>
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 #### 4. Nyo Tshong(CURRENTLY WORKING)
 - This project aims to provide practice in utilizing API bindings from open source APIs(i.e. fakestoreapi) using NextJs(App Router).
 - <span style="color: blue;">[DEMO](https://nyo-tshong-fe.vercel.app/)</span>
+
 
