@@ -10,20 +10,20 @@
 
 :office: Currently working in <b>SELISE Bhutan</b> as web and mobile developer.
 
-:office: Currently working in <b>STELLARLAB Startup</b>
+:office: Currently working in <b>STELLARLAB Startup</b>.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Working Experiences
 #### 1. Dragon Coder Private Limited (Jan 2020 - Feb 2020)
 - **Role**: Intern Developer
-- **Tech Stack used**: Angular, Typescript, Javascript and WordPress
+- **Tech Stack used**: Angular, Typescript, Javascript and WordPress.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### 2. SELISE Bhutan (May 2020 - Present)
 - **Role**: Software Engineer
-- **Tech Stack used**: Angular, Typescript, React, Javascript, SvelteJs, React-Native, Flutter and NextJs 
+- **Tech Stack used**: Angular, Typescript, React, Javascript, SvelteJs, React-Native, Flutter and NextJs.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
