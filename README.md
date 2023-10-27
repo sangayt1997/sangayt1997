@@ -10,8 +10,6 @@
 
 :office: Currently working in <b>SELISE Bhutan</b> as web and mobile developer.
 
-:office: Currently working in <b>STELLARLAB Startup</b>.
-
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Working Experiences
