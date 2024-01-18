@@ -20,7 +20,7 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### 2. SELISE Bhutan (May 2020 - Present)
-- **Role**: Software Engineer / Amlog MOVEit APP (Project Lead)
+- **Role**: Software Engineer and Amlog MOVEit APP (Project Lead)
 - **Tech Stack used**: Angular, Typescript, React, Javascript, SvelteJs, React-Native, Flutter and NextJs.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
