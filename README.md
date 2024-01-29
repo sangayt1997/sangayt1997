@@ -15,7 +15,7 @@
 ### Working Experiences
 #### 1. Dragon Coder Private Limited (Jan 2020 - Feb 2020)
 - **Role**: Intern Developer
-- **Tech Stack used**: Angular, Typescript, Javascript, bootstrap 4 and WordPress. 
+- **Tech Stack used**: Angular, Typescript, Javascript, bootstrap 4 and WordPress.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
