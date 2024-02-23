@@ -21,7 +21,7 @@
 
 #### 2. SELISE AppLab Bhutan (May 2020 - Jan 2024)
 - **Role**: Software Engineer and Amlog MOVEit APP (Project Lead)
-- **Tech Stack used**: Angular, Typescript, React, Javascript, SvelteJs, React-Native, Flutter, bootstrap 4, tailwind css and NextJs(Page Router).
+- **Tech Stack used**: Angular, Typescript, React, Javascript, SvelteJs, React-Native, Flutter, bootstrap 4, tailwind css and NextJs(Page Router). 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
