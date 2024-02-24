@@ -106,7 +106,7 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Stats:
+### Stats: 
 
 ![GitHub stats](https://github-readme-stats-kqggkwfy3-sangaythinley.vercel.app/api?username=sangayt1997&theme=dark&show_icons=true)
 
