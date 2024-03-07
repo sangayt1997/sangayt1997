@@ -29,7 +29,7 @@
 
 #### 2. SELISE Blocks Bhutan (Jan 2024 - Present)
 - **Role**: Senior Software Engineer
-- **Tech Stack used**: Angular, Typescript, React, Javascript, SvelteJs, React-Native, Flutter, bootstrap 4, tailwind css, and NextJs(App Router and Page Router).
+- **Tech Stack used**: Angular, Typescript, React, Javascript, SvelteJs, React-Native, Flutter, Radix UI, Tailwind css, NextJs(App Router and Page Router) and Browser Extension(React, Tailwind css and webpack 5).
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
