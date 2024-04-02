@@ -130,25 +130,20 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Projects:
-#### 1. Stellar Minds
-- Stellar Mind makes Journaling fun and addicting. Write Journal everyday and earn Nourish Point.
-- <span style="color: blue;">[DEMO](https://play.google.com/store/apps/details?id=com.stellarmindsapp.bt)</span>
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-#### 2. Spotify Clone
+#### 1. Spotify Clone
 - Creating spotify music platform with react.
 - <span style="color: blue;">[DEMO](https://spotify-music-clone-ten.vercel.app/)</span>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#### 3. ePortfolio
+#### 2. ePortfolio
 - Simple personal ePortfolio.
 - <span style="color: blue;">[DEMO](https://sample-eportfolio.vercel.app/)</span>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#### 4. Nyo Tshong(CURRENTLY WORKING)
+#### 3. Nyo Tshong(CURRENTLY WORKING)
 - This project aims to provide practice in utilizing API bindings from open source APIs(i.e. fakestoreapi) using NextJs(App Router).
 - <span style="color: blue;">[DEMO](https://nyo-tshong-fe.vercel.app/)</span>
 
