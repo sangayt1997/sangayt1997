@@ -1,8 +1,8 @@
-<img src="./assets/images/coding_banner.png" alt="banner" width="100%" height="100%"/> 
+<img src="./assets/images/coding_banner.png" alt="banner" width="100%" height="100%"/>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Hello there 👋,
+### Hello there 👋, 
 
 :information_source: I am Sangay Thinley, Software Developer from Kingdom of Bhutan.
 
