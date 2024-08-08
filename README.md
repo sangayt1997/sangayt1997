@@ -15,20 +15,20 @@
 ### Working Experiences
 #### 1. Dragon Coder Private Limited (Jan 2020 - Feb 2020)
 - **Role**: Intern Developer
-- **Tech Stack used**: Angular, Typescript, Javascript, bootstrap 4 and WordPress.
+- **Tech Stack**: Angular, Typescript, Javascript, bootstrap 4 and WordPress.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### 2. SELISE AppLab Bhutan (May 2020 - Jan 2024)
 - **Role**: Software Engineer and Amlog MOVEit APP (Project Lead)
-- **Tech Stack used**: Angular, Typescript, React, Javascript, SvelteJs, React-Native, Flutter, bootstrap 4, tailwind css and NextJs(Page Router).
+- **Tech Stack**: Angular, Typescript, React, Javascript, SvelteJs, React-Native, Flutter, bootstrap 4, tailwind css and NextJs(Page Router).
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 #### 3. SELISE &lt;Blocks /&gt; Bhutan (Jan 2024 - Present)
 - **Role**: Sr. Software Engineer
-- **Tech Stack used**: Angular, Typescript, React, Javascript, React-Native, Radix UI, Tailwind css, NextJs(App Router) and Browser Extension(React, Tailwind css and webpack 5). 
+- **Tech Stack**: Angular, Typescript, React, Javascript, React-Native, Radix UI, Tailwind css, NextJs(App Router) and Browser Extension(React, Tailwind css and webpack 5). 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
