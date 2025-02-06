@@ -143,7 +143,7 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#### 3. Nyo Tshong(CURRENTLY WORKING)
+#### 3. Nyo Tshong(Shopping)
 - This project aims to provide practice in utilizing API bindings from open source APIs(i.e. fakestoreapi) using NextJs(App Router).
 - <span style="color: blue;">[DEMO](https://nyo-tshong-fe.vercel.app/)</span>
 
