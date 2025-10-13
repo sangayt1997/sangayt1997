@@ -4,11 +4,10 @@
 
 ### Hello there 👋, 
 
-:information_source: I am Sangay Thinley, Frontend software Engineer from Bhutan.   
+:information_source: I'm Sangay Thinley, a Frontend Software Engineer from Bhutan.
 
-:office: Internship at <b>Dragon coder private limited</b> as frontend developer.
-
-:office: Currently working in <b>SELISE Bhutan</b> as web and mobile developer.
+:office: I began my journey as a Frontend Developer Intern at Dragon Coder Private Limited.
+:office: I’m currently working at SELISE Bhutan as a Web and Mobile Developer, contributing to SaaS solutions and modern digital products.
  
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
