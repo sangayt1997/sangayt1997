@@ -4,7 +4,7 @@
 
 ### Hello there 👋, 
 
-:information_source: I am Sangay Thinley, Software Developer from Kingdom of Bhutan.   
+:information_source: I am Sangay Thinley, Frontend software Engineer from Bhutan.   
 
 :office: Internship at <b>Dragon coder private limited</b> as frontend developer.
 
