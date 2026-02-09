@@ -14,6 +14,7 @@
 ### Working Experiences
 #### 1. Dragon Coder Private Limited (Jan 2020 - Feb 2020)
 - **Role**: Intern Developer
+- **Description**: Developed foundational skills in frontend technologies during my internship at DCPL, gaining hands-on experience with HTML, AngularJS, and UI/UX practices. Contributed by building the company website using WordPress.
 - **Tech Stack**: Angular, Typescript, Javascript, bootstrap 4 and WordPress.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
