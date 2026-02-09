@@ -18,16 +18,24 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#### 2. SELISE AppLab Bhutan (May 2020 - Jan 2024)
-- **Role**: Software Engineer and Amlog MOVEit APP (Project Lead)
-- **Tech Stack**: Angular, Typescript, React, Javascript, SvelteJs, React-Native, Flutter, bootstrap 4, tailwind css and NextJs(Page Router). 
+#### 2. SELISE Group - AppLab Unit Bhutan (May 2020 - Jan 2022)
+- **Role**: Associate Software Engineer(FE)
+- **Description**: Worked as a Associate Frontend Engineer within the SELISE Bhutan team on internal product development and R&D initiatives. Contributed to building SELISE’s in-house UI component library (Safire) using Angular, along with tools such as Widget Builder and Page Builder adopted across multiple company products. Actively participated in researching and implementing modern frontend technologies to create reusable frameworks and scalable UI solutions.
+- **Tech Stack**: Angular, Typescript, React, Javascript, SvelteJs, React-Native, Flutter, bootstrap 4, tailwind css and NextJs(Page Router).
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+#### 3. SELISE Group - AppLab Bhutan & Blocks Units (Jan 2022 - Dec 2023)
+- **Role**: Software Engineer(FE)
+- **Description**: Worked as a Frontend Engineer on multiple SELISE client projects, leading the development of web and mobile application interfaces. Served as the frontend lead for the MoveIt logistics solution, delivering three React Native mobile apps and a web platform for Amberg (Switzerland). Additionally, contributed to the Wiffme SaaS platform (web and mobile) and other client applications, focusing on high performance, usability, and scalable design.
+- **Tech Stack**: Angular, Typescript, React, Javascript, SvelteJs, React-Native, Flutter, bootstrap 4, tailwind css, NextJs(App Router), Browser extension, webpack 5 and Nodejs.
 
-#### 3. SELISE &lt;Blocks /&gt; Bhutan (Jan 2024 - Present)
-- **Role**: Sr. Software Engineer
-- **Tech Stack**: Javascript, Typescript, React, React-Native, Radix UI, Tailwind css, NextJs(App Router) and Browser Extension(React, Tailwind css and webpack 5). 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 4. SELISE Group - Blocks Unit (Jan 2023 - Present)
+- **Role**: Senior Software Engineer(FE)
+- **Description**: Working as a Senior Frontend Engineer in the Blocks unit, a collaborative team across Bhutan and Bangladesh focused on building Platform-as-a-Service (PaaS) products. Contributing to frontend architecture and feature development for platforms such as SELISE Cloud, Construct, SELISE UILM browser extension(language translator) and npm package contributors. Driving scalable UI systems, improving developer experience, and delivering robust frontend solutions used across SELISE products.
+- **Tech Stack**: Javascript, Typescript, React, React-Native, Radix UI, Tailwind css, NextJs(App Router), Browser Extension(React, Tailwind css and webpack 5) and NodeJs. 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
