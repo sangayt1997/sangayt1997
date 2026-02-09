@@ -2,12 +2,17 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Hello there 👋, 
+## 👋 Hi, I’m Sangay Thinley
 
-:information_source: I'm Sangay Thinley, a Frontend Software Engineer from Bhutan.
+I’m a **Senior Frontend Software Engineer** from Bhutan 🇧🇹 with strong experience building modern, scalable **web and mobile applications**. I specialize in crafting clean, intuitive user interfaces and robust frontend architectures using **React, Angular, Flutter, React Native, and Next.js**.
 
-:office: I began my journey as a Frontend Developer Intern at Dragon Coder Private Limited.
-:office: I’m currently working at SELISE Bhutan as a Web and Mobile Developer, contributing to SaaS solutions and modern digital products.
+Currently, I work at **SELISE Digital Platforms**, where I contribute to SaaS products, cross-platform applications, and reusable UI systems. I enjoy solving real-world problems through thoughtful design, clean code, and continuous learning.
+
+On GitHub, you’ll find a mix of **production-ready projects**, **personal experiments**, and **practice applications** that showcase modern frontend development patterns and technologies.
+
+🔹 Tech I work with: JavaScript, TypeScript, React, Angular, Next.js, Flutter, React Native, Tailwind CSS  
+🔹 Interests: UI/UX engineering, performance optimization, scalable frontend systems  
+🔹 Open to: Collaboration, open-source contributions, and interesting frontend challenges
  
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
