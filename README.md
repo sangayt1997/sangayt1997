@@ -12,7 +12,10 @@ On GitHub, you’ll find **production-ready projects**, **personal experiments**
 
 **Tech Focus:** JavaScript, TypeScript, React, Angular, Next.js, React Native, Flutter, Tailwind CSS  
 **Interests:** UI/UX engineering, performance optimization, scalable frontend systems  
-**Open to:** Collaboration, open-source contributions, and interesting frontend challenges
+**Open to:** Collaboration, open-source contributions, and interesting frontend challenges  
+
+**Fun Fact:** I am recognized as the **top public contributor from Bhutan**!  
+Check it out here: [Top Bhutan Contributors](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/bhutan.md)
 
 ---
 
@@ -24,7 +27,7 @@ On GitHub, you’ll find **production-ready projects**, **personal experiments**
 - Contributing to frontend architecture, scalable UI systems, and developer experience  
 - Working on products such as SELISE Cloud, Construct, UILM browser extension, and npm packages  
 
-**Tech:** React, TypeScript, Next.js (App Router), Tailwind CSS, Radix UI, Node.js, Browser Extensions
+**Tech:** React, TypeScript, Next.js (App Router), Tailwind CSS, Radix UI, Node.js and Browser Extensions
 
 ---
 
@@ -34,7 +37,7 @@ On GitHub, you’ll find **production-ready projects**, **personal experiments**
 - Frontend lead for *MoveIt* logistics solution (3 React Native apps + web platform for Switzerland)  
 - Contributed to SaaS platforms and high-performance client applications  
 
-**Tech:** React, React Native, Angular, Svelte, Flutter, Next.js, Webpack, Tailwind CSS
+**Tech:** React, React Native, Angular, Svelte, Flutter, Next.js, Webpack and Tailwind CSS
 
 ---
 
@@ -44,7 +47,7 @@ On GitHub, you’ll find **production-ready projects**, **personal experiments**
 - Contributed to reusable UI frameworks and low-code tools  
 - Researched and adopted modern frontend technologies  
 
-**Tech:** Angular, React, TypeScript, Svelte, Flutter, Tailwind CSS, Next.js
+**Tech:** Angular, React, TypeScript, Svelte, Flutter, Tailwind CSS and Next.js
 
 ---
 
@@ -54,7 +57,7 @@ On GitHub, you’ll find **production-ready projects**, **personal experiments**
 - Collaborated on UI/UX design, frontend architecture, and scalable solutions  
 - Worked across multiple domains with a strong user-focused approach  
 
-**Tech:** React, React Native, Next.js, Firebase, Material UI, SCSS, Figma
+**Tech:** React, React Native, Next.js, Firebase, Material UI, SCSS and Figma
 
 ---
 
@@ -63,17 +66,17 @@ On GitHub, you’ll find **production-ready projects**, **personal experiments**
 - Built foundational frontend skills during internship  
 - Developed company website using WordPress  
 
-**Tech:** AngularJS, JavaScript, TypeScript, Bootstrap, WordPress
+**Tech:** AngularJS, JavaScript, TypeScript, Bootstrap and WordPress
 
 ---
 
 ## 🧠 Skills & Technologies
 
 ### Languages & Frameworks
-HTML, CSS, SCSS, JavaScript, TypeScript, Angular, React, React Native, Flutter, Svelte, Next.js, Firebase, Tailwind CSS, Material UI, Styled Components, MySQL, Java, C, C++, Python
+HTML, CSS, SCSS, JavaScript, TypeScript, Angular, React, React Native, Flutter, Svelte, Next.js, Firebase, Tailwind CSS, Material UI, Styled Components, MySQL, Java, C, C++ and Python
 
 ### Tools & Platforms
-VS Code, WebStorm, Android Studio, Xcode, GitHub, Vercel, Figma, Trello, Slack, ClickUp
+VS Code, WebStorm, Android Studio, Xcode, GitHub, Vercel, Figma, Trello, Slack, ClickUp, Windsurf, Mongodb, postman and etc
 
 ---
 
