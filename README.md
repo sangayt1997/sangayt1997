@@ -4,7 +4,7 @@
 
 ## 👋 Hi, I’m Sangay Thinley
 
-I’m a **Senior Frontend Software Engineer** from Bhutan 🇧🇹 with strong experience building modern, scalable **web and mobile applications**. I specialize in crafting clean, intuitive user interfaces and robust frontend architectures using **React, Angular, Flutter, React Native, and Next.js**.
+I’m a **Senior Software Engineer(FE)** from Bhutan 🇧🇹 with strong experience building modern, scalable **web and mobile applications**. I specialize in crafting clean, intuitive user interfaces and robust frontend architectures using **React, React Native, and Next.js**.
 
 Currently, I work at **SELISE Digital Platforms**, where I contribute to SaaS products, cross-platform applications, and reusable UI systems. I enjoy solving real-world problems through thoughtful design, clean code, and continuous learning.
 
@@ -23,22 +23,27 @@ On GitHub, you’ll find a mix of **production-ready projects**, **personal expe
 - **Tech Stack**: Angular, Typescript, Javascript, bootstrap 4 and WordPress.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#### 2. Freelance Software Engineer(FE) (Sep 2021 - Jan 2026)
+- **Role**: Software Engineer(FE)
+- **Description**: Worked as a Frontend Engineer on multiple local client projects, delivering web and mobile applications using modern frontend technologies. Collaborated with various startups and early-stage projects, contributing to product design, UI/UX implementation, and scalable frontend solutions. Gained hands-on experience across diverse domains while ensuring high-quality, user-focused interfaces.
+- **Tech Stack**: Figma, Material-ui, Firebase, Git, React, HTML5, Cascading Style Sheets (CSS), React Native, User Experience Design (UED), SCSS and Next.js
 
-#### 2. SELISE Group - AppLab Unit Bhutan (May 2020 - Jan 2022)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#### 3. SELISE Group - AppLab Unit Bhutan (May 2020 - Jan 2022)
 - **Role**: Associate Software Engineer(FE)
 - **Description**: Worked as a Associate Frontend Engineer within the SELISE Bhutan team on internal product development and R&D initiatives. Contributed to building SELISE’s in-house UI component library (Safire) using Angular, along with tools such as Widget Builder and Page Builder adopted across multiple company products. Actively participated in researching and implementing modern frontend technologies to create reusable frameworks and scalable UI solutions.
 - **Tech Stack**: Angular, Typescript, React, Javascript, SvelteJs, React-Native, Flutter, bootstrap 4, tailwind css and NextJs(Page Router).
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#### 3. SELISE Group - AppLab Bhutan & Blocks Units (Jan 2022 - Dec 2023)
+#### 4. SELISE Group - AppLab Bhutan & Blocks Units (Jan 2022 - Dec 2023)
 - **Role**: Software Engineer(FE)
 - **Description**: Worked as a Frontend Engineer on multiple SELISE client projects, leading the development of web and mobile application interfaces. Served as the frontend lead for the MoveIt logistics solution, delivering three React Native mobile apps and a web platform for Amberg (Switzerland). Additionally, contributed to the Wiffme SaaS platform (web and mobile) and other client applications, focusing on high performance, usability, and scalable design.
 - **Tech Stack**: Angular, Typescript, React, Javascript, SvelteJs, React-Native, Flutter, bootstrap 4, tailwind css, NextJs(App Router), Browser extension, webpack 5 and Nodejs.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#### 4. SELISE Group - Blocks Unit (Jan 2023 - Present)
+#### 5. SELISE Group - Blocks Unit (Jan 2023 - Present)
 - **Role**: Senior Software Engineer(FE)
 - **Description**: Working as a Senior Frontend Engineer in the Blocks unit, a collaborative team across Bhutan and Bangladesh focused on building Platform-as-a-Service (PaaS) products. Contributing to frontend architecture and feature development for platforms such as SELISE Cloud, Construct, SELISE UILM browser extension(language translator) and npm package contributors. Driving scalable UI systems, improving developer experience, and delivering robust frontend solutions used across SELISE products.
 - **Tech Stack**: Javascript, Typescript, React, React-Native, Radix UI, Tailwind css, NextJs(App Router), Browser Extension(React, Tailwind css and webpack 5) and NodeJs. 
