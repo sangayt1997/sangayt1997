@@ -14,9 +14,6 @@ On GitHub, you’ll find **production-ready projects**, **personal experiments**
 **Interests:** UI/UX engineering, performance optimization, scalable frontend systems  
 **Open to:** Collaboration, open-source contributions, and interesting frontend challenges  
 
-**Fun Fact:** I am recognized as the **top public contributor from Bhutan**!  
-Check it out here: [Top Bhutan Contributors](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/bhutan.md)
-
 ---
 
 ## 💼 Work Experience
