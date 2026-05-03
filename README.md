@@ -117,6 +117,3 @@ VS Code, WebStorm, Android Studio, Xcode, GitHub, Vercel, Figma, Trello, Slack, 
 - Personal portfolio website  
 - **Demo:** [Live Demo](https://sample-eportfolio.vercel.app/)
 
-### **Nyo Tshong (Shopping App)**
-- Practice project using open-source APIs with Next.js (App Router)  
-- **Demo:** [Live Demo](https://nyo-tshong-fe.vercel.app/)
