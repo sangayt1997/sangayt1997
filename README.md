@@ -113,7 +113,4 @@ VS Code, WebStorm, Android Studio, Xcode, GitHub, Vercel, Figma, Trello, Slack, 
 - Music streaming UI built with React  
 - **Demo:** [Live Demo](https://spotify-music-clone-ten.vercel.app/)
 
-### **ePortfolio**
-- Personal portfolio website  
-- **Demo:** [Live Demo](https://sample-eportfolio.vercel.app/)
 
