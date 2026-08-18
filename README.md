@@ -110,7 +110,16 @@ VS Code, WebStorm, Android Studio, Xcode, GitHub, Vercel, Figma, Trello, Slack, 
 ## 🚀 Featured Projects
 
 ### **Spotify Clone**
-- Music streaming UI built with React  
+- A responsive music-streaming interface built as a focused frontend development project.
 - **Demo:** [Live Demo](https://spotify-music-clone-ten.vercel.app/)
+  
+### **Juk Pay Dashboard**
+- A modern frontend for Bhutan’s unified digital payment system, designed for businesses and developers.
+- **Demo:** [Live Demo](https://juk-pay-dashboard-fe.vercel.app/)
 
+### **ChoeGi**
+- A Bhutanese master brand platform uniting products, services, businesses, and innovation under one trusted identity.
+
+### **Budget Manager Extension**
+- A lightweight browser extension for tracking and managing personal budgets(POC in extension).
 
